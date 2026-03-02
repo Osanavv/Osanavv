@@ -1,5 +1,5 @@
 # 💫 About Me:
-hey, i'm osanavv 👋<br>still learning, still breaking things, still having fun
+still learning, still breaking things, still having fun
 
 
 # 💻 Tech Stack:
