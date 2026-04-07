@@ -1,4 +1,6 @@
-<img align="center" src="./img/cat.jpg">
+<p align="center">
+  <img src="./img/cat.jpg">
+</p>
 
 # 🌟 About Me:
 - still learning  
