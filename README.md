@@ -1,3 +1,5 @@
+<img align="center" src="./img/cat.jpg">
+
 # 🌟 About Me:
 - still learning  
 - still breaking things  
