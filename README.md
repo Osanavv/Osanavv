@@ -34,4 +34,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Osanavv&theme=meta-dark&hide_border=true)](https://git.io/streak-stats)
 
 <p align="center">
-<img src="https://count.getloli.com/@Osanavv?name=Osanavv&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0">
+<img src="https://count.getloli.com/@Osanavv?name=Osanavv&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
