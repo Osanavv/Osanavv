@@ -9,10 +9,10 @@
 
 ---
 
-# 🧠 Currently Into:
-- 🔐 CTF & security stuff  
+# 🧠 Currently Into: 
 - ⚙️ building random tools  
 - 🧩 solving weird problems  
+- 💤 sleeps
 
 ---
 
