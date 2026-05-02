@@ -12,7 +12,7 @@
 # 🧠 Currently Into: 
 - ⚙️ building random tools  
 - 🧩 solving weird problems  
-- 💤 sleeps
+- 💤 CTF & security stuff
 
 ---
 
